@@ -21,3 +21,9 @@ to_smash(1)
 print ("calling in print")
 print(to_smash(91))
 print(to_smash(5))
+
+
+#git remote set-url origin https://github.com/YourUsername/NewRepo.git   change remote repo ur local git project is connected to
+#git remote set-url origin https://github.com/YourUsername/NewRepo.git
+#  check current remote git remote -v
+
